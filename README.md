@@ -1,8 +1,6 @@
 ### 👋 Hi there
 
-I am Jason and I love open source. I'm currently addicted to competitive programming and you can see most of my contributions are around algorithms.
-
-Before that, my primary focus is the Node.js community and some TypeScript related stuff.
+I am Jason, a full-stack software engineer. My interest in open source varies, but primarily is in node.js, React and TypeScript.
 
 My journey to open source merely started and you will see me more being active across communities.
 
