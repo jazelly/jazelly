@@ -11,7 +11,7 @@ My journey to open source merely started and you will see me more being active a
 | ![jazelly's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jazelly&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jazelly"></img>
 
 
 **📫 How to Reach me:**
@@ -28,19 +28,3 @@ My journey to open source merely started and you will see me more being active a
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazelly" alt="jazelly" /></a>
 </p>
-
-
-<!--
-**jazelly/jazelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
