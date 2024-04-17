@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I am Jason, a full-stack software engineer. My interest in open source varies, but primarily is in node.js, React and TypeScript.
+I am Jason, a full-stack software engineer. My interest in open source varies, but primarily is in node.js and data-structure library like Redis.
 
 My journey to open source merely started and you will see me more being active across communities.
 
