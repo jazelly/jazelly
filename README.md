@@ -17,7 +17,6 @@ My journey to open source merely started and you will see me more being active a
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://linkedin.com/in/jazelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:xzha4350@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 
