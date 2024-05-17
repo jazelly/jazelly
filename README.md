@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I am Jason, a full-stack software engineer. I love digging into fun projects and grasp the great ideas behind it.
+I am Jason, a full-stack software engineer. I love digging into fun projects and grasp the great ideas behind.
 
 
 ### 📈 My Activity Graph:
