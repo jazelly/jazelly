@@ -1,6 +1,6 @@
-### 👋 Hi there
+### 👋 Howdy
 
-I am Jason, a full-stack software engineer. I love digging into fun projects and grasp the great ideas behind.
+I am Jason. I love digging into open source projects and grasp the great ideas behind.
 
 
 ### 📈 My Activity Graph:
