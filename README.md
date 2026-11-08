@@ -1,6 +1,6 @@
 # Hi, I'm Jason
 
-I'm based in Adelaide, Australia. Most of my work experience has been with startups, and I'm currently studying medicine. I'm especially interested in bringing different disciplines together, including software, AI, and medicine.
+I'm based in Adelaide, Australia. Most of my work experience has been with startups. I'm especially interested in bringing different disciplines together, including software and AI.
 
 ## Open Source
 
