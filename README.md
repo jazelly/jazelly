@@ -6,15 +6,7 @@ I like digging.
 
 ## Open Source
 
-I contribute to Node.js core, with merged work on worker threads, streams, and the runtime:
-
-- Added [`worker_threads.markAsUncloneable()`](https://github.com/nodejs/node/pull/55234) for preventing structured cloning of objects
-- Implemented [Web IDL dictionary converter for `structuredClone`](https://github.com/nodejs/node/pull/55489)
-- Fixed [`WritableStream` undefined size algorithm validation](https://github.com/nodejs/node/pull/56067)
-- Improved [watch-mode parent/child path handling](https://github.com/nodejs/node/pull/57425)
-- Enhanced [`fs.realpath` for namespaced drive paths](https://github.com/nodejs/node/pull/65378)
-
-I also contributed to [Undici](https://github.com/nodejs/undici), using `markAsUncloneable` to [prevent structured cloning of web objects](https://github.com/nodejs/undici/pull/3709).
+I'm a Node.js Core Collaborator. My contributions focus on worker threads, web-platform APIs, and runtime reliability. You can see my [Node.js work here](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Ajazelly).
 
 ## Projects
 
