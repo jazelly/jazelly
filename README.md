@@ -2,8 +2,6 @@
 
 I'm based in Adelaide, Australia. Most of my work experience has been with startups, and I'm currently studying medicine. I'm especially interested in bringing different disciplines together, including software, AI, and medicine.
 
-I like digging.
-
 ## Open Source
 
 I'm a Node.js Core Collaborator. My contributions focus on worker threads, web-platform APIs, and runtime reliability. You can see my [Node.js work here](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Ajazelly).
